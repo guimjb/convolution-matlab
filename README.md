@@ -10,11 +10,11 @@ USF Class Project
 
 ### Screenshots
 - Mode selector:  
-  ![Mode selector](mainmenuScreenshot.png)
+  ![Mode selector](Screenshots/mainmenuScreenshot.png)
 - General convolution workflow:  
-  ![General mode](toolScreenshot.png)
+  ![General mode](Screenshots/toolScreenshot.png)
 - Probability & statistics workflow:  
-  ![Probability mode](probabilityScreenshot.png)
+  ![Probability mode](Screenshots/probabilityScreenshot.png)
 
 ### How to Run
 - Open MATLAB and set the working folder to this directory.
